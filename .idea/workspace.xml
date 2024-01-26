@@ -4,7 +4,797 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec461b6-7d64-4e87-87e1-42deec1b55c6" name="Changes" comment="" />
+    <list default="true" id="7ec461b6-7d64-4e87-87e1-42deec1b55c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.1..js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen/Variabelen/oef-1.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/deel2 kopie/oefening1.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_opgave.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/._extra_oefeningen_1_starbestanden" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/._assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/._extra-oefeningen-start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/._extra_oefeningen_1_opgave.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/._~$tra_oefeningen_1_opgave.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._10071456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._10189126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._10202894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._10538007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._11384280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._1184620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._11868825.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._11901678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._12206212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._12472242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._12580477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._12607053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13039848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13215230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13429800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13599884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13723605.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._13945283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._14141448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._1435851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._14851496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15025844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15052462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15150365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15237615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15303296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15401633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._15480588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._1557499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._16353197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._1641882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._16768387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._16972957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17092736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17358176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17535588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17814387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._1784619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17881964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._17985575.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._18246479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._18710707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._19066538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._19159413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._19523799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._19613556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._20060230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._20277860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._20394040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._20436034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._2118022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._21263083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._21347810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._21417692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._21817254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._22702055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._22910685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._23424603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._23771716.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._24068492.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._24094653.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._24611934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._24668830.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._2483611.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._2504891.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25109950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25655502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25769732.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25833572.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25880422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._25955164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._26202165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._26378150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28279543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28470714.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28546905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28593363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._2863439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28725004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._28933734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._29155212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._29172562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._29380133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._30113682.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._3027001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._30778711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._31122090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._31560081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._31786629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._32268901.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._32274490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._32452818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._32809211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._32864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._33064647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._33066139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._33178416.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._33396948.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._34460851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._36121917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._36304921.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._36607978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._37120512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._37313348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._37421579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._37820550.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._38142739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._3819470.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._38199696.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._39004808.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._39111158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._39774685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._40240595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._4031928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._40374923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._40453765.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._40640057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._40826495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41142615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41218256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41356845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41392891.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41396436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41420027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41462083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._41949033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._4206964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._42431843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._43230671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._43500484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._43973174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._44095762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._44209392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._44287299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._44519536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._45042329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._45121025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._45231177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46009906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46130346.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._4614116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46461247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46474915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46657337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46918794.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._46986414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._47060154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._48365709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._49218300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._49888191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._50005633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._50045299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._50152549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._5053103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._50913601.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._50930991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._51267887.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._51275027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._51371017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._51482758.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._51828629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._52097679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._53129443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._53153481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._53293545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._53375573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._54098121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._54541900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._54652250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._54752875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._549481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55144522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55291359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55444629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55763552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55784832.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._55875323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._56283725.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._56342351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._56830749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._56907389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._57305373.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._5758500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._5818798.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._58192742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._58314394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._58528964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._58861941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._5901497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._59197169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._60862676.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._61854111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._62121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._62340868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._6285791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._63102017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._63308047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._6368038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._64501875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._66602787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._66672569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._66788016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._66889139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._6740720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._67494157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._67629977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._67724379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._68005187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._68516705.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._68658728.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._68846917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._69455834.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._69572024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._70138455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._7019529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._70681994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._70781052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._7089711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._70903634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._71107816.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._71407486.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._71625222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._72302403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._72842870.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._72892473.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._73051941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._73134082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._73481154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._74677422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._74703140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._7489323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._75356564.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._75376965.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._75499502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._76103675.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._76184692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._76211194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._76446915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._76812113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._77007920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._77027445.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._77414722.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._77622396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._77827521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._78010363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._7805359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._78780140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._7902349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._79759861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._80141480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._80604092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._80741828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._80770678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._81057959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._8124921.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._81386177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._81480461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._81820689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._8201910.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._82542267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._83225447.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._83464209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._83764719.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._83887306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._84257640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._84686841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._8471389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._84926738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._85309439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._85326399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._85602018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._85639257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._85705804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._86088138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._86318356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._86325596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87322377.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87430998.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87557188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87564352.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87756343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._87796900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._88279736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._88819587.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._88979991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._89091579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._89112729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._89272878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._89494469.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._89631139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._90219263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._90357090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._9076207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._90963488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._91152256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._91595718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._9159938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._91939608.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._92731455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._9293977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._93221206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._93553943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._93889755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._93900406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._94675535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._94773007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._94905343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._95727991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._95952802.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._9653271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._96851799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._97360116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._97590747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98049915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98069388.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98252586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98374133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98434877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98495314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._98818516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/__MACOSX/extra_oefeningen_1_starbestanden/assets/._99551425.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/10071456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/10189126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/10202894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/10538007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/11384280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/1184620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/11868825.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/11901678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/12206212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/12472242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/12580477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/12607053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13039848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13215230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13429800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13599884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13723605.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/13945283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/14141448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/1435851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/14851496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15025844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15052462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15150365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15237615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15303296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15401633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/15480588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/1557499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/16353197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/1641882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/16768387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/16972957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17092736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17358176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17535588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17814387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/1784619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17881964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/17985575.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/18246479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/18710707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/19066538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/19159413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/19523799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/19613556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/20060230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/20277860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/20394040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/20436034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/2118022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/21263083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/21347810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/21417692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/21817254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/22702055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/22910685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/23424603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/23771716.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/24068492.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/24094653.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/24611934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/24668830.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/2483611.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/2504891.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25109950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25655502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25769732.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25833572.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25880422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/25955164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/26202165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/26378150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28279543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28470714.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28546905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28593363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/2863439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28725004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/28933734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/29155212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/29172562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/29380133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/30113682.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/3027001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/30778711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/31122090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/31560081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/31786629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/32268901.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/32274490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/32452818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/32809211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/32864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/33064647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/33066139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/33178416.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/33396948.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/34460851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/36121917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/36304921.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/36607978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/37120512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/37313348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/37421579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/37820550.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/38142739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/3819470.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/38199696.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/39004808.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/39111158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/39774685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/40240595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/4031928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/40374923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/40453765.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/40640057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/40826495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41142615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41218256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41356845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41392891.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41396436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41420027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41462083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/41949033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/4206964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/42431843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/43230671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/43500484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/43973174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/44095762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/44209392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/44287299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/44519536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/45042329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/45121025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/45231177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46009906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46130346.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/4614116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46461247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46474915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46657337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46918794.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/46986414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/47060154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/48365709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/49218300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/49888191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/50005633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/50045299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/50152549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/5053103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/50913601.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/50930991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/51267887.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/51275027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/51371017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/51482758.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/51828629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/52097679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/53129443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/53153481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/53293545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/53375573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/54098121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/54541900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/54652250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/54752875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/549481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55144522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55291359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55444629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55763552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55784832.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/55875323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/56283725.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/56342351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/56830749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/56907389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/57305373.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/5758500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/5818798.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/58192742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/58314394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/58528964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/58861941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/5901497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/59197169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/60862676.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/61854111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/62121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/62340868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/6285791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/63102017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/63308047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/6368038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/64501875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/66602787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/66672569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/66788016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/66889139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/6740720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/67494157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/67629977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/67724379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/68005187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/68516705.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/68658728.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/68846917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/69455834.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/69572024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/70138455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/7019529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/70681994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/70781052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/7089711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/70903634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/71107816.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/71407486.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/71625222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/72302403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/72842870.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/72892473.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/73051941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/73134082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/73481154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/74677422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/74703140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/7489323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/75356564.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/75376965.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/75499502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/76103675.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/76184692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/76211194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/76446915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/76812113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/77007920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/77027445.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/77414722.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/77622396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/77827521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/78010363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/7805359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/78780140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/7902349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/79759861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/80141480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/80604092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/80741828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/80770678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/81057959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/8124921.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/81386177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/81480461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/81820689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/8201910.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/82542267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/83225447.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/83464209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/83764719.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/83887306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/84257640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/84686841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/8471389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/84926738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/85309439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/85326399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/85602018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/85639257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/85705804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/86088138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/86318356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/86325596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87322377.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87430998.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87557188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87564352.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87756343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/87796900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/88279736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/88819587.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/88979991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/89091579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/89112729.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/89272878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/89494469.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/89631139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/90219263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/90357090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/9076207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/90963488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/91152256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/91595718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/9159938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/91939608.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/92731455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/9293977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/93221206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/93553943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/93889755.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/93900406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/94675535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/94773007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/94905343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/95727991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/95952802.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/9653271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/96851799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/97360116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/97590747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98049915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98069388.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98252586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98374133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98434877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98495314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/98818516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/assets/99551425.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/extra-oefeningen-start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/extra_oefeningen_1_opgave.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_1_starbestanden/extra_oefeningen_1_starbestanden/~$tra_oefeningen_1_opgave.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/._extra_oefeningen_2_startbestanden" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._.idea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._extra_oefeningen_2_opgave.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/._oefening2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/.idea/._.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/.idea/._modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/.idea/._workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/assets/._ducati-panigale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/assets/._ford-fiesta-st.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/assets/._ford-mondeo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/assets/._kawasaki-ninja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/__MACOSX/extra_oefeningen_2_startbestanden/assets/._mercedes-amg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/assets/ducati-panigale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/assets/ford-fiesta-st.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/assets/ford-mondeo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/assets/kawasaki-ninja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/assets/mercedes-amg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/extra_oefeningen_2_opgave.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/extra_oefeningen_2_startbestanden/extra_oefeningen_2_startbestanden/oefening2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/._2.variabelen kopie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/2.variabelen kopie/._oefening1.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/4.arrays kopie/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/4.arrays kopie/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/4.arrays kopie/._oefening.arrays.4.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/h6.dom-manipultatie kopie/._oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/__MACOSX/oef-scripting/h6.dom-manipultatie kopie/._oefening3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/2.variabelen kopie/oefening1.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.arrays kopie/oefening.arrays.4.1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/4.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/4.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/4.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/4.1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/4.objecten kopie/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/algemeen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/oefening3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oef-scripting (1)/oef-scripting/h6.dom-manipultatie kopie/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/__MACOSX/oefeningen-scripting/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/__MACOSX/oefeningen-scripting/._4.functies_4.1.1_html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/__MACOSX/oefeningen-scripting/3.controlestructuren_3.1.1_3.1.2 kopie/._3.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/__MACOSX/oefeningen-scripting/3.controlestructuren_3.1.1_3.1.2 kopie/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/__MACOSX/oefeningen-scripting/deel2 kopie/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/3.controlestructuren_3.1.1_3.1.2 kopie/3.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/3.controlestructuren_3.1.1_3.1.2 kopie/3.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/3.controlestructuren_3.1.1_3.1.2 kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/index kopie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.1 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.2 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.3 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.4 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.5 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.arrays_4.1.1-4.1.6/oefening.arrays.4.1.6 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.functies_4.1.1_html/4.1.1 kopie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/4.functies_4.1.1_html/index kopie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verbeterde oefeningen/oefeningen-scripting (1)/oefeningen-scripting/deel2 kopie/oefening1.9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +803,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
@@ -43,28 +834,38 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2VeOBF1CEl11JqJJUymqBFcLlDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/2324-scripting&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/noort/WebstormProjects/2324-scripting/verbeterde oefeningen",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\noort\WebstormProjects\2324-scripting\verbeterde oefeningen" />
+      <recent name="C:\Users\noort\WebstormProjects\2324-scripting\oefeningen" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\noort\WebstormProjects\2324-scripting\oefeningen" />
+      <recent name="C:\Users\noort\WebstormProjects\2324-scripting\verbeterde oefeningen" />
+      <recent name="C:\Users\noort\WebstormProjects\2324-scripting\oefeningen\Variabelen" />
       <recent name="C:\Users\noort\WebstormProjects\2324-scripting\Hoofdstuk 1 " />
     </key>
   </component>
@@ -93,6 +894,9 @@
       <workItem from="1697125571495" duration="4000" />
       <workItem from="1697137364601" duration="6000" />
       <workItem from="1697459648576" duration="4000" />
+      <workItem from="1705841018781" duration="433000" />
+      <workItem from="1706270458402" duration="1068000" />
+      <workItem from="1706291541753" duration="2683000" />
     </task>
     <servers />
   </component>

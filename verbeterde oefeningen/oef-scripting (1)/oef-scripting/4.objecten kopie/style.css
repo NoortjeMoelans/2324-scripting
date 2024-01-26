@@ -1,0 +1,26 @@
+header{
+    width: 100%;
+
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+table tr td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: dimgray;
+    color: white;
+    text-align: center;
+    max-height: 20px;
+    max-width: 20px;
+}
+#zin{
+    color: gray;
+    text-align: center;
+    width: 70%;
+    height: 130px;
+}
